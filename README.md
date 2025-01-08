@@ -1,1 +1,1 @@
-This folder contains the VBA script and the screenshots
+This folder contains the stock market analysis assignment with the VBA script and the screenshots. The code for the analysis was created using learning resources from class and with the help of tutoring session.
